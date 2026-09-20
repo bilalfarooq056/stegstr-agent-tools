@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# stegstr-agent-tools
-=======
 # Stegstr Agent Tools 🤖🕵️‍♂️
 
 A lightweight Python wrapper for autonomous AI agents (LangChain, CrewAI, AutoGen) to securely hide, transfer, and post secret data inside images using the [Stegstr](https://stegstr.com/r/GGYFBD) network.
